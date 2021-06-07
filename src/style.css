@@ -1,0 +1,29 @@
+#root {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#info {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    color: red;
+}
+#gui{
+    padding: 0 10px;
+     color: white;
+     font-size: 17px;
+     position: absolute;
+     background: #333;
+     top: 0;
+     right: 0;
+ }
+#input1{
+    z-index: 2;
+}
+
+#input2{
+    z-index: 2;
+    top: 40px;
+}
